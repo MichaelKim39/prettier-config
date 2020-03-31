@@ -1,0 +1,19 @@
+{
+	"name": "@michael_kim39/prettier-config",
+	"version": "1.0.1",
+	"description": "Prettier Config",
+	"main": "index.json",
+	"license": "MIT",
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/michaelkim39/prettier-config"
+	},
+	"homepage": "https://github.com/michaelkim39/prettier-config",
+	"publishConfig": {
+		"access": "public"
+	}
+}
